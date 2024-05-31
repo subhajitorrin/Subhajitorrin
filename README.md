@@ -69,5 +69,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhajitorrin" alt="subhajitorrin" /></a> </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajitorrin&show_icons=true&locale=en&layout=compact" alt="subhajitorrin" height="195" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhajitorrin&" alt="subhajitorrin" height="195" />
+  <div style="width: 50%;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajitorrin&show_icons=true&locale=en&layout=compact" alt="subhajitorrin" height="195" />
+  </div>
+  <div style="width: 50%;">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhajitorrin&" alt="subhajitorrin" height="195" />
+  </div>
 </p>
+
