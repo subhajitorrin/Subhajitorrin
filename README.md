@@ -72,6 +72,9 @@
   <div style="width: 50%;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajitorrin&show_icons=true&locale=en&layout=compact" alt="subhajitorrin" height="195" />
   </div>
+</p>
+
+<p>
   <div style="width: 50%;">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhajitorrin&" alt="subhajitorrin" height="195" />
   </div>
