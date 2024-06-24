@@ -76,7 +76,7 @@
 
 <p>
   <div style="width: 50%;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhajitorrin&" alt="subhajitorrin" height="195" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hkirat&" alt="subhajitorrin" height="195" />
   </div>
 </p>
 
