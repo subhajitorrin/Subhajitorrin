@@ -1,4 +1,5 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=santanu4246.santanu4246" />
 <h1 align="center">Hi 👋, I'm SUBHAJIT GHOSH</h1>
 <h3 align="center">Aspiring Frontend Developer</h3>
 
