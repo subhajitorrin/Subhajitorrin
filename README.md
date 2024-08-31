@@ -4,6 +4,7 @@
 <h1 align="center">Hi 👋, I'm SUBHAJIT GHOSH</h1>
 <h3 align="center">Aspiring Fullstack developer, I'm always eager to learn new technologies and improve my coding skills.</h3>
 
+<div align="center">
 - 🌱 I’m currently learning **WebRTC, Socket, AI**
 
 - 👯 I’m looking to collaborate on **Fullstack MERN Projects**
@@ -15,6 +16,7 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YeCF2zravbAeZt65sZq4KAUIxiZoAjj3/view?usp=sharing)
 
 - ⚡ Fun fact **I can code while watching Netflix.**
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,14 +51,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhajitorrin" alt="subhajitorrin" /></a> </p>
 
-<p>
-  <div style="width: 50%;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajitorrin&show_icons=true&locale=en&layout=compact" alt="subhajitorrin" height="195" />
-  </div>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajitorrin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p>
-  <div style="width: 50%;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhajitorrin&" alt="subhajitorrin" height="195" />
-  </div>
-</p>
+<img src="https://streak-stats.demolab.com?user=subhajiorrin&theme=halloween&border_radius=1&date_format=j%20M%5B%20Y%5D"/>
