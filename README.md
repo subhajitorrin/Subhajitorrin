@@ -6,7 +6,7 @@
 
 <div align="center">
   
-🌱 I’m currently learning **WebRTC, Socket, AI**
+🌱 I’m currently learning **WebRTC, Socket**
   
 👯 I’m looking to collaborate on **Fullstack MERN Projects**
 
@@ -34,8 +34,10 @@
 
 <p align="center">     </p>
 <hr/>
-<table>
-  <tr><td><strong>Web Development</strong></td></tr>
+
+<div align="center">
+  <table style="width: 100%;">
+  <tr><td><strong >Web Development</strong></td></tr>
   <tr>
     <td>
       <p align="center">
@@ -46,7 +48,7 @@
     </td>
   </tr>
 
-  <tr><td><strong>Other Languages & Tools</strong></td></tr>
+  <tr><td><strong align="center">Other Languages & Tools</strong></td></tr>
   <tr>
     <td>
       <p align="center">
@@ -57,6 +59,8 @@
     </td>
   </tr>
 </table>
+</div>
+
 
 
 
