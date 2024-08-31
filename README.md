@@ -5,17 +5,17 @@
 <h3 align="center">Aspiring Fullstack developer, I'm always eager to learn new technologies and improve my coding skills.</h3>
 
 <div align="center">
-- 🌱 I’m currently learning **WebRTC, Socket, AI**
+🌱 I’m currently learning **WebRTC, Socket, AI**
+  
+👯 I’m looking to collaborate on **Fullstack MERN Projects**
 
-- 👯 I’m looking to collaborate on **Fullstack MERN Projects**
+💬 Ask me about **react, javascript, express**
 
-- 💬 Ask me about **react, javascript, express**
+📫 How to reach me **subhajitghosh343@gmail.com**
 
-- 📫 How to reach me **subhajitghosh343@gmail.com**
+📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YeCF2zravbAeZt65sZq4KAUIxiZoAjj3/view?usp=sharing)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YeCF2zravbAeZt65sZq4KAUIxiZoAjj3/view?usp=sharing)
-
-- ⚡ Fun fact **I can code while watching Netflix.**
+⚡ Fun fact **I can code while watching Netflix.**
 </div>
 
 <h3 align="left">Connect with me:</h3>
