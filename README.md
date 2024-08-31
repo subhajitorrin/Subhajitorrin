@@ -2,7 +2,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=santanu4246.santanu4246" />
 
 <h1 align="center">Hi 👋, I'm SUBHAJIT GHOSH</h1>
-<h3 align="center">Aspiring Fullstack developer, I'm always eager to learn new technologies and improve my coding skills.</h3>
+<h3 align="center">Aspiring Fullstack developer,</h3>
+<h3 align="center">I'm always eager to learn new technologies.</h3>
 
 <div align="center">
   
@@ -18,6 +19,18 @@
 
 ⚡ Fun fact **I can code while watching Netflix.**
 
+</div>
+
+<div align="center"> 
+  <a href="mailto:subhajitghosh343@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/subhajitghosh-orrin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://subhajitorrin.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
 </div>
 
 <h3 align="left">Connect with me:</h3>
