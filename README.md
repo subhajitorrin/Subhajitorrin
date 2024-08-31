@@ -2,8 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=santanu4246.santanu4246" />
 
 <h1 align="center">Hi 👋, I'm SUBHAJIT GHOSH</h1>
-<h3 align="center">Aspiring Fullstack developer,</h3>
-<h3 align="center">I'm always eager to learn new technologies.</h3>
+<h3 align="center">Aspiring Fullstack developer, I'm always eager to learn new technologies.</h3>
 
 <div align="center">
   
@@ -33,13 +32,8 @@
   </a>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/subhajitghosh-orrin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhajitghosh-orrin" height="30" width="40" /></a>
-  <a href="https://fb.com/subhajitorrin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subhajitorrin" height="30" width="40" /></a>
-  <a href="https://instagram.com/subhajitghosh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subhajitghosh_" height="30" width="40" /></a>
-</p>
-
+<p align="center">     </p>
+<hr/>
 <table>
   <tr><td><strong>Web Development</strong></td></tr>
   <tr>
@@ -63,6 +57,7 @@
     </td>
   </tr>
 </table>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhajitorrin" alt="subhajitorrin" /></a> </p>
 
