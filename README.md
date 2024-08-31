@@ -23,7 +23,14 @@
 </p>
 
 <table>
-  <tr><td>Web Development</td></tr>
+  <tr><td><strong>Web Development</strong></td></tr>
+  <tr><td>
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+  </a>
+</p>
+  </td></tr>
 </table>
 
 
