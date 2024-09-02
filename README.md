@@ -6,7 +6,7 @@
 
 <div align="center">
   
-🌱 I’m currently learning **WebRTC, Socket**
+🌱 I’m currently learning **WebRTC, Socket, PeerJS**
   
 👯 I’m looking to collaborate on **Fullstack MERN Projects**
 
