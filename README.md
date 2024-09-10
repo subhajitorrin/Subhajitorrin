@@ -14,8 +14,6 @@
 
 📫 How to reach me **subhajitghosh343@gmail.com**
 
-📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YeCF2zravbAeZt65sZq4KAUIxiZoAjj3/view?usp=sharing)
-
 ⚡ Fun fact **I can code while watching Netflix.**
 
 </div>
