@@ -8,7 +8,7 @@
   
 🌱 I’m currently learning **Web Sockets**
   
-👯 I’m looking to collaborate on **Fullstack MERN Projects**
+👯 I’m looking to collaborate on **Fullstack MERN, Nextjs Projects**
 
 💬 Ask me about **react, javascript, express**
 
