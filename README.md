@@ -3,11 +3,6 @@
 
 <h1 align="center">Hi 👋, I'm Subhajit Ghosh</h1>
 <h3 align="center">Full-Stack & React Native Developer | Building Scalable Web & Mobile Apps 🚀</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,express,mongodb,postgres,docker,aws,gcp,redis,vercel,figma,git" />
-</p>
-
 ---
 
 ### 🚀 About Me  
