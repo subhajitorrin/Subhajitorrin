@@ -21,12 +21,12 @@
 
 <div align="center">
   <table style="width: 100%;">
-  <tr><td><strong >Web Development</strong></td></tr>
+  <tr><td><strong >Technologies</strong></td></tr>
   <tr>
     <td>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=vite,html,css,javascript,react,tailwind,postman,npm,nodejs,mongodb,firebase,express" />
+          <img src="https://skillicons.dev/icons?i=vite,html,css,javascript,react,tailwind,postman,npm,nodejs,mongodb,firebase,express,supabase,androidstudio,aws,bash,docker,gcp,nginx,notion,pnpm,postgres,prisma,py,redis,ubuntu,vim" />
         </a>
       </p>
     </td>
