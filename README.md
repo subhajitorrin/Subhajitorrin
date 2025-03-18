@@ -2,17 +2,18 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=santanu4246.santanu4246" />
 
 <h1 align="center">Hi 👋, I'm Subhajit Ghosh</h1>
-<h3 align="center">Aspiring Fullstack developer, I'm always eager to learn new technologies.</h3>
+<h3 align="center">Full-Stack & React Native Developer | Building Scalable Web & Mobile Apps 🚀</h3>
 
-<div align="center">
-  
-🌱 I’m currently learning *Web Sockets*
-  
-👯 I’m looking to collaborate on *Fullstack MERN, Nextjs Projects*
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,express,mongodb,postgres,docker,aws,gcp,redis,vercel,figma,git" />
+</p>
 
-💬 Ask me about *react, javascript, express*
+---
 
-⚡ Fun fact *I can code while watching Netflix.*
+### 🚀 About Me  
+- 💻 Passionate Full-Stack & React Native Developer  
+- 🔥 Building interactive & scalable web/mobile apps  
+- 🎯 Always learning & exploring new tech  
 
 </div>
 
