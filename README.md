@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Subhajit Ghosh</h1>
 <h3 align="center">Full-Stack & React Native Developer | Ship faster than your expectations 🚀</h3>
 
-### 🚀 About Me  
+### About Me  
 - 💻 Full-Stack & React Native Developer  
 - 🔥 Experienced in WebSockets, AI Workflows & Scalable Backend Systems  
 - 🎯 Fast learner, constantly exploring cutting-edge technologies  
