@@ -7,7 +7,7 @@
 ### About Me  
 - 💻 Full-Stack & React Native Developer  
 - 🔥 Experienced in WebSockets, AI Workflows & Scalable Backend Systems  
-- 🎯 Fast learner, constantly exploring cutting-edge technologies  
+- 🎯 Quick learner, constantly exploring cutting-edge technologies  
 - ⚡ Passionate about tackling challenges & solving complex problems  
 - 🚀 Worked on several projects, delivering high-quality solutions
 
