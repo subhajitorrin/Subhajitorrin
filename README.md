@@ -26,7 +26,7 @@
     <td>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=vite,html,css,javascript,react,tailwind,postman,npm,nodejs,mongodb,firebase,express,supabase,androidstudio,aws,bash,docker,gcp,nginx,notion,pnpm,postgres,prisma,py,redis,ubuntu,vim,vscode,vercel,replit,py,java,git,cpp,c" />
+          <img src="https://skillicons.dev/icons?i=Vite,HTML,CSS,JavaScript,React,TailwindCSS,Node.js,Express.js,Prisma,MongoDB,PostgreSQL,Redis,Firebase,Supabase,AWS,GCP,Nginx,Docker,Postman,NPM,PNPM,VSCode,Vim,Replit,Notion,AndroidStudio,Ubuntu,Bash,Python(Py),Java,C++,C,Git,Vercel" />
         </a>
       </p>
     </td>
