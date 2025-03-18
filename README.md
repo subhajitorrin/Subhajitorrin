@@ -26,18 +26,7 @@
     <td>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=vite,html,css,javascript,react,tailwind,postman,npm,nodejs,mongodb,firebase,express,supabase,androidstudio,aws,bash,docker,gcp,nginx,notion,pnpm,postgres,prisma,py,redis,ubuntu,vim" />
-        </a>
-      </p>
-    </td>
-  </tr>
-
-  <tr><td><strong align="center">Other Languages & Tools</strong></td></tr>
-  <tr>
-    <td>
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=vscode,vercel,replit,py,java,git,cpp,c" />
+          <img src="https://skillicons.dev/icons?i=vite,html,css,javascript,react,tailwind,postman,npm,nodejs,mongodb,firebase,express,supabase,androidstudio,aws,bash,docker,gcp,nginx,notion,pnpm,postgres,prisma,py,redis,ubuntu,vim,vscode,vercel,replit,py,java,git,cpp,c" />
         </a>
       </p>
     </td>
