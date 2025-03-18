@@ -2,13 +2,15 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=santanu4246.santanu4246" />
 
 <h1 align="center">Hi 👋, I'm Subhajit Ghosh</h1>
-<h3 align="center">Full-Stack & React Native Developer | Building Scalable Web & Mobile Apps 🚀</h3>
+<h3 align="center">Full-Stack & React Native Developer | Ship faster than your expectations 🚀</h3>
 ---
 
 ### 🚀 About Me  
-- 💻 Passionate Full-Stack & React Native Developer  
-- 🔥 Building interactive & scalable web/mobile apps  
-- 🎯 Always learning & exploring new tech  
+- 💻 Full-Stack & React Native Developer  
+- 🔥 Experienced in WebSockets, AI Workflows & Scalable Backend Systems  
+- 🎯 Fast learner, constantly exploring cutting-edge technologies  
+- ⚡ Passionate about tackling challenges & solving complex problems  
+- 🚀 Worked on several projects, delivering high-quality solutions
 
 </div>
 
