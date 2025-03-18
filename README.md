@@ -10,6 +10,7 @@
 - 🎯 Quick learner, constantly exploring cutting-edge technologies  
 - ⚡ Passionate about tackling challenges & solving complex problems  
 - 🚀 Worked on several projects, delivering high-quality solutions
+- 🧑‍💻 Proficient in using the latest AI tools like Lovable AI, Cursor, V0, and more
 
 </div>
 
